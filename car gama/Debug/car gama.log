@@ -1,0 +1,6 @@
+﻿  car.cpp
+  graph.cpp
+  main.cpp
+  Generating Code...
+E:\ENGINEERING\CMP_G\my games\car game\car gama\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  car gama.vcxproj -> E:\ENGINEERING\CMP_G\my games\car game\Debug\car gama.exe
